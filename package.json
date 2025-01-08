@@ -16,7 +16,7 @@
   "engines": {
     "node": ">=18"
   },
-  "name": "with-tailwind",
+  "name": "react-19-storybook-nextjs-vite",
   "packageManager": "yarn@1.22.22",
   "workspaces": [
     "apps/*",

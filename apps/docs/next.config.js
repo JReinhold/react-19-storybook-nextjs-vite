@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
   reactStrictMode: true,
-  transpilePackages: ["@repo/ui"],
+  transpilePackages: ["@react-19-storybook-nextjs-vite/ui"],
 };

@@ -1,3 +1,6 @@
 module.exports = {
-  extends: ["@repo/eslint-config/react.js"],
+  extends: [
+    "@react-19-storybook-nextjs-vite/eslint-config/react.js",
+    "plugin:storybook/recommended"
+  ],
 };

@@ -1,12 +1,12 @@
 {
-  "name": "@repo/tailwind-config",
+  "name": "@react-19-storybook-nextjs-vite/tailwind-config",
   "version": "0.0.0",
   "private": true,
   "exports": {
     ".": "./tailwind.config.ts"
   },
   "devDependencies": {
-    "@repo/typescript-config": "*",
+    "@react-19-storybook-nextjs-vite/typescript-config": "*",
     "tailwindcss": "^3.4.1"
   }
 }
